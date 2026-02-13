@@ -1,0 +1,9 @@
+{
+  "compatibility_date": "2025-01-01",
+  "pages_build_output_dir": "..",
+  "name": "onmax-repros-nuxthub-839",
+  "compatibility_flags": [
+    "nodejs_compat",
+    "no_nodejs_compat_v2"
+  ]
+}
